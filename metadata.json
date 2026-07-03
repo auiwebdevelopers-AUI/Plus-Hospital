@@ -1,0 +1,6 @@
+{
+  "name": "Plus Hospital",
+  "description": "An interactive, patient-centric public website and healthcare portal for Plus Hospital. Features online appointment booking, department directories, a pharmacy catalog with cart system, laboratory and diagnostics scheduler, insurance assistance, and inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
